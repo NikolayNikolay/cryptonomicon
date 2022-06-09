@@ -1,4 +1,6 @@
 # cryptonomicon
+Скриншот:
+![Alt text](https://github.com/NikolayNikolay/cryptonomicon/blob/master/screenShots/crypto.PNG)
 
 ## Project setup
 
